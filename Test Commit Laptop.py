@@ -1,3 +1,2 @@
 test = "success"
-print(test
-      )
+print(test)
